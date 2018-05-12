@@ -1,0 +1,31 @@
+_repo: How-to-Eat--A-Cure-for--Nerves-_19762
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hinkle, Thomas C. (Thomas Clark)
+    birthdate: 1876
+    deathdate: 1949
+    gutenberg_agent_id: '8179'
+    url: http://www.gutenberg.org/2009/agents/8179
+description: Title; Contents; The Introduction; I. Where The Trouble Lies; Ii. How
+  To Overcome The Trouble; Iii. Right And Wrong Diet For Nervous People; Iv. Value
+  Of Outdoor Life And Exercise; V. Effect Of Right Livingon Worry And Unhappiness.
+gutenberg_issued: '2006-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19762'
+  lccn: '21015724'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RC'
+- !lcsh 'Nervous system -- Hygiene'
+- !lcsh 'Diet in disease'
+- !lcsh 'Nervous system -- Diseases'
+title: 'How to Eat: A Cure for "Nerves"'
+url: http://www.gutenberg.org/ebooks/19762
